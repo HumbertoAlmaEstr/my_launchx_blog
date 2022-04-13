@@ -4,7 +4,7 @@ date: 2022-03-01
 description: 'Descripción de tu blog post'
 ---
 
-Holaa! Me gustaria compartir mi conocimiento a lo largo de el curso.
+Holaa! Me gustaria compartir mi conocimiento a lo largo de el curso:
 
 - Python
 - logica de programacion
@@ -14,3 +14,5 @@ Holaa! Me gustaria compartir mi conocimiento a lo largo de el curso.
 - Html
 - git
 - command line
+
+Gracias por leer.
